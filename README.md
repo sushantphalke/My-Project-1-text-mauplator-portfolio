@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Here in this project i had created an application for text manipulation ehich offers ffeatures like changing case of the text, remove unwanted spaces ,reading time,number of words and characters init ,copy whole text,etc. then itn has links to my anothter projects viz. my e-learning website ,my robots and its  website developed by me ,and my Portfolio  .Thanks# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
