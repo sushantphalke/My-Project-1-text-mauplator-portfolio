@@ -1,0 +1,76 @@
+
+html{
+    font-size:100%;
+    
+    }
+
+
+#Corouselcss{
+    background: rgb(255, 207, 246);
+    border: 2px solid plum;
+    border-radius: 10px;
+   
+    
+}
+.carousel-item{
+    max-height: 55em;
+    max-width: 80em;
+
+    
+}
+
+.container{
+    margin-top: 30px;
+       
+}
+
+#headingcarousel{
+    color: coral;
+}
+#firstimage{
+    box-sizing: border-box;
+    float:left;
+    height:25em;
+    width: 34em;
+    margin-bottom: 1em;
+    margin-top:1em;
+    border-color: black;
+   
+    
+}
+#secondimage{
+    box-sizing: border-box;
+    float: right;
+    flex-direction: column;
+     height:25em;
+     width: 43em;
+     margin-bottom: 1em;
+     margin-top:1em;
+     border-color: black;   
+ 
+    
+}
+#software-page1{
+    box-sizing: border-box;
+    float: left;
+    flex-direction: column;
+     height:25em;
+     width: 43em;
+     margin-bottom: 1em;
+     margin-top:1em;
+     border-color: black;
+    
+   
+    
+}
+#software-page2{
+       
+    box-sizing: border-box;
+    float:right;
+    height:25em;
+    width: 34em;
+    margin-bottom: 1em;
+    margin-top:1em;
+    border-color: black;
+    
+}

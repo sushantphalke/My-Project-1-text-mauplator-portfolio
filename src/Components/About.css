@@ -1,0 +1,13 @@
+.accordion-body{
+    border:1px solid white;
+    border-radius: 10px;
+}
+.accordion-header{
+    border:1px solid white;
+    border-radius: 10px;
+}
+#about{
+    border: 1px solid plum;
+    border-radius: 10px;
+    padding-bottom: 20px;
+  }

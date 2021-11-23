@@ -1,0 +1,19 @@
+.navbar-brand{
+    background-color:rgb(255, 207, 246);
+    color: white;
+    text-decoration: solid;
+    border: 2px solid rgb(255, 207, 246);
+    border-radius: 5px;
+    padding: 3px;
+
+}
+#darkmodeswitch{
+    float: right;
+
+}
+#asterisk{
+    text-decoration: none;
+    color: #6c757d;
+    margin-top: 8px;
+    text-decoration-color: #6c757d;
+}

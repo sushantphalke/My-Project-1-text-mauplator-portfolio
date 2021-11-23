@@ -1,0 +1,31 @@
+#name{
+    justify-content: center;
+    text-align: center;
+    color: blue;
+}
+#parentdiv{
+    justify-content: left;
+    text-align: center;
+    color: blue;
+}
+#photo{
+    height:300px;
+    border: 2px;
+    border-radius: 70px;
+    
+
+}
+#childdiv1{
+    margin-top: 20px;
+    width: 350px;
+    display: inline-block;
+    color: blue;
+}
+#childdiv2{
+    width: 350px;
+    display: inline-block;
+    margin-top: 30px;
+}
+#uiuxicon{
+    height: 20px;
+}

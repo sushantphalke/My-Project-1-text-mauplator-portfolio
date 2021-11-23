@@ -1,0 +1,40 @@
+#cards1{
+    width:25vw;
+    height: auto;
+    padding: 10px;
+    display: inline-block;
+    border: 1px solid plum;
+    border-radius: 10px;
+  
+    margin: 10px;
+}
+#cards2{
+    width:25vw;
+    height: auto;
+    padding: 10px;
+    display: inline-block;
+    border: 1px solid plum;
+    border-radius: 10px;
+    
+    margin: 10px;
+}
+#cards3{
+    width: 25vw;
+    height: auto;
+    padding: 10px;
+    display: inline-block;
+    border: 1px solid plum;
+    border-radius: 10px;
+   
+    margin: 10px;
+}
+#cardbody{
+    margin-top: 3px;
+    border: 1px solid plum;
+    border-radius: 5px;
+}
+#cardfooter{
+    
+    border: 1px solid plum;
+    border-radius: 5px;
+}
