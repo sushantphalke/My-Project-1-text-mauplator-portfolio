@@ -1,4 +1,4 @@
-#Here in this project i had created an application for text manipulation which
+Here in this project i had created an application for text manipulation which
 offers features like 
 changing case of the text, 
 remove unwanted spaces,
@@ -10,7 +10,7 @@ then itn has links to my anothter projects
 viz. my e-learning website,
 my robots and its  website developed by me, 
 and my Portfolio  .
-Thanks
+# Thanks
 
 # Getting Started with Create React App
 
