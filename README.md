@@ -1,4 +1,4 @@
-Here in this project i had created an application for text manipulation which
+#Here in this project i had created an application for text manipulation which
 offers features like 
 changing case of the text, 
 remove unwanted spaces,
